@@ -1,0 +1,49 @@
+/*alt+  */
+body{
+	background-color: orange;
+}
+
+
+/* Vamos a ver sobre estilos para fuentes*/
+
+h1{
+	color:#ffffff; /*Para cambiar el color del texto*/
+	text-align: center; /*Para alinear el texto*/
+	text-decoration: underline; /*Para aplicar subrayados a los textos, tenemos, underline, overline y line-through*/
+	text-transform: uppercase; /*Para hacer las transformaciones a mayùscula o minùscula según sea el caso*/
+	font-size: 50px; /*Tamaño de fuente*/
+	font-family: 'Helvetica'; /*Estilo de fuente*/
+	font-weight: bold; /*Con esto determino los pesos de las fuentes*/
+	text-shadow: 1px 0px 1px black; /*PosX, PosY, Difuminado, color*/
+	background-color: red;
+}
+
+#parrafo1{
+	text-align: right;
+	font-size: 35px;
+	text-decoration: underline;
+	font-family: 'Courier New';
+}
+#parrafo2{
+	text-align: left;
+	font-size: 25px;
+	text-shadow: 10px 10px 5px blue;
+	text-decoration: overline;
+	font-family: 'Arial';
+}
+#parrafo3{
+	font-family: 'Helvetica';
+	font-size: 32px;
+	font-weight: 100;
+	background-color: #ededed;
+	color: #232323;
+	padding: 10px;
+	margin: 10px;
+	text-align: left;
+	line-height: 50px;
+}
+
+
+
+
+
